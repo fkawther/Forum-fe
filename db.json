@@ -1,0 +1,25 @@
+{
+  "offers": [
+  {
+    "id": 1,
+    "title": "développeur java",
+    "company": "vermeg",
+    "description": "java,springboot",
+    "nbCandidate": 5
+  },
+  {
+    "id": 2,
+    "title": "développeur angular",
+    "company": "vermeg",
+    "description": "html,angular",
+    "nbCandidate": 6
+  },
+  {
+    "id": 3,
+    "title": "développeur java",
+    "company": "vermeg",
+    "description": "java,springboot,mongodb",
+    "nbCandidate": 0
+  }
+]
+}
